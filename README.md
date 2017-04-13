@@ -3,8 +3,8 @@ Ti.SiriKit is an open-source project to support the SiriKit API (aka Intents.fra
 Intents (the concept behihind Siri) are triggered by it's Siri extension. See [this tutorial](http://docs.appcelerator.com/platform/latest/#!/guide/Creating_iOS_Extensions_-_Siri_Intents) for more infos on
 how to implement Siri extensions.
 
-Right now, the module is mainly meant to handle the autorization status and permisions. Please feel free to expose the 
-Intents handlers as well!
+Right now, the module is mainly meant to handle the autorization status and permissions. Please feel free to expose the 
+specific Intents handlers (booking, calls, messages, fitness, ...) as well!
 
 ## Requirements
   - Titanium Mobile SDK 5.5.1.GA+
